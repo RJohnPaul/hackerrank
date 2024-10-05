@@ -2,6 +2,7 @@
 #
 # Computes the average of three numbers, to three decimal places.
 # https://www.hackerrank.com/challenges/bash-tutorials---compute-the-average
+## try to think before taking solution
 
 sum=0
 read N
